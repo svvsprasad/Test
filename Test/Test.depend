@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581864925 source:c:\users\user-28\documents\test\main.cpp
+
+1581865000 source:c:\users\user-28\documents\test\sum.c
+	<stdio.h>
+
